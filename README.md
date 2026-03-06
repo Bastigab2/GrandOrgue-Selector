@@ -114,7 +114,6 @@ Go to View -> Language and select your preferred language.
 
 **Gabriele Bastianelli**
 Urbino, Italy
-bastigab@gmail.com
 
 ## License
 
