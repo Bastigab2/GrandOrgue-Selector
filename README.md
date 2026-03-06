@@ -29,6 +29,8 @@ GrandOrgue Selector is a desktop application that allows you to organize, previe
 
 - Python 3.x
 - Pillow (PIL)
+- GrandOrgue must be installed on the system
+
 
 ## Installation
 
